@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "208621128467",
+    "firebase_url": "https://iot-crayfish-monitoring-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-crayfish-monitoring-system",
+    "storage_bucket": "iot-crayfish-monitoring-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208621128467:android:de4f4fcaf6ab1f06b928e6",
+        "android_client_info": {
+          "package_name": "com.clawseth.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkHuMFrqTLTPCyQFVaCzMn93rIXC9rZLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
